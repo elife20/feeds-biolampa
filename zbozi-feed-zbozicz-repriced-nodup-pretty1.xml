@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SHOP xmlns="http://www.zbozi.cz/ns/offer/1.0">
+  <SHOPITEM>
+    <ITEM_ID>AN</ITEM_ID>
+    <PRODUCTNAME>Mobilní Autonapáječ k Biostimul BS 103</PRODUCTNAME>
+    <DESCRIPTION>Napájecí adaptér pro použití biolamp v automobilu. Vhodný pro modely Biostimul BS103 a BS303. Umožňuje pohodlné použití přístroje na cestách.</DESCRIPTION>
+    <URL>https://www.biolampa.net/products/mobilni-autonapajec/</URL>
+    <IMGURL>https://83c8c4a2c1.clvaw-cdnwnd.com/0aa25dd0af655d4f46776f941a6012ea/200000012-7c16a7d0ca/autonap%C3%A1je%C4%8D.jpg</IMGURL>
+    <PRICE_VAT>309.50</PRICE_VAT>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <CATEGORYTEXT>Elektro | Osobní péče | Zdravotní lampy | Příslušenství</CATEGORYTEXT>
+    <MAX_CPC>0.31</MAX_CPC>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>AD31</ITEM_ID>
+    <PRODUCTNAME>Stojánek pro Biolampu Biostimul 103 a 303</PRODUCTNAME>
+    <DESCRIPTION>Nastavitelný stojánek pro biolampy Biostimul BS103 a BS303. Umožňuje zafixování lampy v libovolné poloze a uvolňuje ruce při aplikaci.</DESCRIPTION>
+    <URL>https://www.biolampa.net/products/stojanek-pro-biolampu-biostimul-103-a-303/</URL>
+    <IMGURL>https://83c8c4a2c1.clvaw-cdnwnd.com/0aa25dd0af655d4f46776f941a6012ea/200000011-30e2532d4f/aplika%C4%8Dn%C3%AD%20stoj%C3%A1nek.jpg</IMGURL>
+    <PRICE_VAT>1099.50</PRICE_VAT>
+    <DELIVERY_DATE>5</DELIVERY_DATE>
+    <CATEGORYTEXT>Elektro | Osobní péče | Zdravotní lampy | Příslušenství</CATEGORYTEXT>
+    <MAX_CPC>1.10</MAX_CPC>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>AD29</ITEM_ID>
+    <PRODUCTNAME>Síťový Adaptér k BS 103 , BS 303, Family packu</PRODUCTNAME>
+    <DESCRIPTION>Náhradní síťový adaptér pro biolampy BS103, BS303 a Family Pack. Zajišťuje spolehlivé a bezpečné napájení přístroje ze sítě.</DESCRIPTION>
+    <URL>https://www.biolampa.net/products/sitovy-adapter-k-bs-103-bs-303-family-packu/</URL>
+    <IMGURL>https://83c8c4a2c1.clvaw-cdnwnd.com/0aa25dd0af655d4f46776f941a6012ea/200000010-e9729ea6d7/adapt%C3%A9r.jpg</IMGURL>
+    <PRICE_VAT>509.50</PRICE_VAT>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <CATEGORYTEXT>Elektro | Osobní péče | Zdravotní lampy | Příslušenství</CATEGORYTEXT>
+    <MAX_CPC>0.51</MAX_CPC>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>AD27</ITEM_ID>
+    <PRODUCTNAME>Mobilní držák k biolampě Biostimul</PRODUCTNAME>
+    <DESCRIPTION>Elastický mobilní držák pro biolampu Biostimul. Umožňuje připevnění lampy na různé části těla a pohodlnou aplikaci bez držení v ruce.</DESCRIPTION>
+    <URL>https://www.biolampa.net/products/mobilni-drzak-k-biolampe/</URL>
+    <IMGURL>https://83c8c4a2c1.clvaw-cdnwnd.com/0aa25dd0af655d4f46776f941a6012ea/200000023-82e5a84d6e/mobiln%C3%AD%20dr%C5%BE%C3%A1k.jpg</IMGURL>
+    <PRICE_VAT>259.50</PRICE_VAT>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <CATEGORYTEXT>Elektro | Osobní péče | Zdravotní lampy | Příslušenství</CATEGORYTEXT>
+    <MAX_CPC>0.26</MAX_CPC>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>BiG</ITEM_ID>
+    <PRODUCTNAME>Biogel - doplněk léčby</PRODUCTNAME>
+    <DESCRIPTION>Chladivý gel pro podporu regenerace a péči o přetížené svaly a klouby. Vhodný jako doplněk při použití biolampy. Rychle se vstřebává a nezanechává mastný film.</DESCRIPTION>
+    <URL>https://www.biolampa.net/products/biogel/</URL>
+    <IMGURL>https://83c8c4a2c1.clvaw-cdnwnd.com/0aa25dd0af655d4f46776f941a6012ea/200000014-1f4b121411/BioGel.png</IMGURL>
+    <PRICE_VAT>384.50</PRICE_VAT>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <CATEGORYTEXT>Kosmetika a zdraví | Zdravotní potřeby | Dermokosmetika</CATEGORYTEXT>
+    <MAX_CPC>0.38</MAX_CPC>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>BiF</ITEM_ID>
+    <PRODUCTNAME>Biofluid - doplněk léčby</PRODUCTNAME>
+    <DESCRIPTION>Zklidňující přípravek pro citlivou a podrážděnou pokožku. Podporuje hydrataci a regeneraci. Vhodný jako doplněk péče při použití biolampy.</DESCRIPTION>
+    <URL>https://www.biolampa.net/products/biofluid/</URL>
+    <IMGURL>https://83c8c4a2c1.clvaw-cdnwnd.com/0aa25dd0af655d4f46776f941a6012ea/200000013-bf72cc06ef/BioFluid.png</IMGURL>
+    <PRICE_VAT>374.50</PRICE_VAT>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <CATEGORYTEXT>Kosmetika a zdraví | Zdravotní potřeby | Dermokosmetika</CATEGORYTEXT>
+    <MAX_CPC>0.37</MAX_CPC>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>FP</ITEM_ID>
+    <PRODUCTNAME>Biostimul Family Paket BS 103 a BS 303</PRODUCTNAME>
+    <DESCRIPTION>Rodinné balení dvou biolamp BS103 a BS303 pro domácí použití. Umožňuje pohodlné použití více osobami současně. Vhodné pro pravidelnou péči o svaly, klouby i pokožku za zvýhodněnou cenu.</DESCRIPTION>
+    <URL>https://www.biolampa.net/products/biostimul-family-paket-bs-103-a-bs-303/</URL>
+    <IMGURL>https://83c8c4a2c1.clvaw-cdnwnd.com/0aa25dd0af655d4f46776f941a6012ea/200000106-6e5de6f570/family-bonus.jpg</IMGURL>
+    <PRICE_VAT>19979.50</PRICE_VAT>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <CATEGORYTEXT>Elektro | Osobní péče | Zdravotní lampy</CATEGORYTEXT>
+    <EXTRA_MESSAGE>extended_warranty</EXTRA_MESSAGE>
+    <EXTRA_MESSAGE>free_gift</EXTRA_MESSAGE>
+    <FREE_GIFT_TEXT>Biogel + Biofluid + mobilní držák | Prodloužená záruka 3 roky</FREE_GIFT_TEXT>
+    <MAX_CPC>19.98</MAX_CPC>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>BS550</ITEM_ID>
+    <PRODUCTNAME>Biolampa Biostimul BS 550</PRODUCTNAME>
+    <DESCRIPTION>Velkoplošná biolampa pro profesionální i náročnější domácí použití. Nabízí velký světelný panel s vysokou intenzitou a možností polohování. Vhodná pro ošetření větších ploch těla.</DESCRIPTION>
+    <URL>https://www.biolampa.net/products/biolampa-biostimul-bs-550/</URL>
+    <IMGURL>https://83c8c4a2c1.clvaw-cdnwnd.com/0aa25dd0af655d4f46776f941a6012ea/200000007-2214f2310c/B%20550.jpg</IMGURL>
+    <PRICE_VAT>54368.50</PRICE_VAT>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <CATEGORYTEXT>Elektro | Osobní péče | Zdravotní lampy</CATEGORYTEXT>
+    <MAX_CPC>54.37</MAX_CPC>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>BS501</ITEM_ID>
+    <PRODUCTNAME>Biolampa Biostimul BS 501</PRODUCTNAME>
+    <DESCRIPTION>Profesionální velkoplošná biolampa s nastavitelnými segmenty. Umožňuje 3D fototerapii větších částí těla. Vhodná pro ordinace, rehabilitace i náročnější domácí použití.</DESCRIPTION>
+    <URL>https://www.biolampa.net/products/biolampa-biostimul-bs-501/</URL>
+    <IMGURL>https://83c8c4a2c1.clvaw-cdnwnd.com/0aa25dd0af655d4f46776f941a6012ea/200000006-c4093c501e/bs%20501.jpg</IMGURL>
+    <PRICE_VAT>216379.50</PRICE_VAT>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <CATEGORYTEXT>Elektro | Osobní péče | Zdravotní lampy</CATEGORYTEXT>
+    <MAX_CPC>216.38</MAX_CPC>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>BS303</ITEM_ID>
+    <PRODUCTNAME>Biolampa Biostimul BS 303</PRODUCTNAME>
+    <DESCRIPTION>Výkonnější verze osobní biolampy s akumulátorem pro bezdrátový provoz. Nabízí vyšší intenzitu světla a variabilní režimy. Vhodná pro domácí i mobilní použití při lokálním ošetření. Jednoduché ovládání a dlouhá výdrž baterie.</DESCRIPTION>
+    <URL>https://www.biolampa.net/products/biolampa-biostimul-bs-303/</URL>
+    <IMGURL>https://83c8c4a2c1.clvaw-cdnwnd.com/0aa25dd0af655d4f46776f941a6012ea/200000105-b1bebb2ba4/303kaa-bonus.jpg</IMGURL>
+    <PRICE_VAT>15979.50</PRICE_VAT>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <CATEGORYTEXT>Elektro | Osobní péče | Zdravotní lampy</CATEGORYTEXT>
+    <EXTRA_MESSAGE>extended_warranty</EXTRA_MESSAGE>
+    <EXTRA_MESSAGE>free_gift</EXTRA_MESSAGE>
+    <FREE_GIFT_TEXT>Biogel + Biofluid + mobilní držák | Prodloužená záruka 3 roky</FREE_GIFT_TEXT>
+    <MAX_CPC>15.98</MAX_CPC>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>BS103</ITEM_ID>
+    <PRODUCTNAME>Biolampa Biostimul BS 103</PRODUCTNAME>
+    <DESCRIPTION>Osobní biolampa pro domácí použití s polarizovaným červeným světlem. Pomáhá zklidnit postižená místa a podpořit regeneraci. Vhodná pro lokální ošetření svalů, kloubů i pokožky. Snadné ovládání a nízká hmotnost.</DESCRIPTION>
+    <URL>https://www.biolampa.net/products/biolampa-biostimul-bs-103/</URL>
+    <IMGURL>https://83c8c4a2c1.clvaw-cdnwnd.com/0aa25dd0af655d4f46776f941a6012ea/200000104-68a046999c/103-bonus.jpg</IMGURL>
+    <PRICE_VAT>9629.00</PRICE_VAT>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <CATEGORYTEXT>Elektro | Osobní péče | Zdravotní lampy</CATEGORYTEXT>
+    <EXTRA_MESSAGE>extended_warranty</EXTRA_MESSAGE>
+    <EXTRA_MESSAGE>free_gift</EXTRA_MESSAGE>
+    <FREE_GIFT_TEXT>Biogel + Biofluid + mobilní držák | Prodloužená záruka 3 roky</FREE_GIFT_TEXT>
+    <MAX_CPC>9.63</MAX_CPC>
+  </SHOPITEM>
+</SHOP>
